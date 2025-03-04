@@ -23,5 +23,18 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
-  }
+  },
+  "description": "learning webhooks",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-dev2/webhook-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-dev2/webhook-testing/issues"
+  },
+  "homepage": "https://github.com/adam-dev2/webhook-testing#readme"
 }
